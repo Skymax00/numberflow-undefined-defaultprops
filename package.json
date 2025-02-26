@@ -23,5 +23,8 @@
 	},
 	"dependencies": {
 		"@number-flow/svelte": "^0.3.3"
+	},
+	"overrides": {
+		"esm-env": "npm:esm-env-runtime@^0.1.1"
 	}
 }
